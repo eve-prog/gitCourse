@@ -71,6 +71,13 @@ a {
     width: 30rem;
 }
 
+.cover:hover {
+    -webkit-transform: rotate(7deg);
+    -moz-transform: rotate(7deg);
+    -o-transform: rotate(7deg);
+    transform: rotate(7deg);
+}
+
 /***********************************************************************
  *  Grid Panel
  **********************************************************************/
